@@ -57,7 +57,7 @@ See [here](https://www.ed.ac.uk/information-services/library-museum-gallery/usin
 
 #### <i class="fas fa-question-circle fa-fw"></i> What are the rules of the competition?
 
-- All projects must be submitted by **March 23, 2025 at 16:00 UK time**. There is only one submission per team. 
+- All projects must be submitted by **March 22, 2026 at 16:00 UK time**. There is only one submission per team. 
 - The data used in the project should NOT be shared in public. That rule is valid for your presentation until all DataFest events are over (end of April roughly)
 - All interactive dashboards must be deployed online.
 - All slide decks must be submitted as a PDF document.

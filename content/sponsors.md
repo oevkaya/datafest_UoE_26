@@ -1,5 +1,5 @@
 ---
-title: "DataFest 2025 Sponsors"
+title: "DataFest 2026 Sponsors"
 markup: "mmark"
 ---
 

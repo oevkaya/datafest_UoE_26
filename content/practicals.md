@@ -5,7 +5,7 @@ markup: "mmark"
 
 #### <i class="fas fa-question-circle fa-fw"></i> How do I enter the venue?
 
-The Nucleus Building is a new shared learning, teaching and social hub at the heart of The King’s Buildings campus. See the location from the [Google map](https://www.google.com/maps/place/The+Nucleus+Building,+The+University+of+Edinburgh/@55.9228707,-3.1739974,15z/data=!4m2!3m1!1s0x0:0x30d53c72c9accbd8?sa=X&ved=2ahUKEwi0sZeD4KuEAxUAZ0EAHTvaDQsQ_BJ6BAgPEAA)
+The JCMB Building is the learning, teaching and social place for various fields at the heart of The King’s Buildings campus. See the location from the [Google map](https://www.google.com/maps/dir//James+Clerk+Maxwell+Building,+The+University+of+Edinburgh,+Peter+Guthrie+Tait+Road,+King's+Buildings,+Edinburgh+EH9+3FD/@55.9284224,-3.1883264,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4887c761e03335c5:0x77aeb8f28163ff46!2m2!1d-3.1737691!2d55.9216613?entry=ttu&g_ep=EgoyMDI2MDIwNC4wIKXMDSoASAFQAw%3D%3D)
 
 After normal working hours, access to the venue is only possible by card. If you are not a staff or student from the University of Edinburgh and want to enter the building at these hours, please make sure that you have a phone number from someone who can open the door for you.
 

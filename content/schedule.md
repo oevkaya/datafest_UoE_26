@@ -7,13 +7,13 @@ All events take place on-site. We'll use MS Teams for communication.
 
 ### Event details
 
-**When:** Friday, March 21 at 6:00 pm - Sunday, March 23 at 7 pm
+**When:** Friday, March 20 at 6:00 pm - Sunday, March 22 at 7 pm
 
-**Where:** Hawthorn Teaching Room, Nucleus Building, The King's Buildings campus, The University of Edinburgh, EH9 3FG
+**Where:** JCMB 3217, James Clarke Maxwell Building, The King's Buildings campus, The University of Edinburgh, EH9 3FD
 
 ---
 
-### Friday, 21 March 2025
+### Friday, 20 March 2026
 
 **Welcome!**
 
@@ -27,11 +27,11 @@ All events take place on-site. We'll use MS Teams for communication.
 
 💻 7:30-9pm - Work on data
    
-On the first day, the main goal is to access the dataset, try to understand it and make  plans for your analysis. 
+On the first day, the main goal is to access the dataset, try to understand it and make plans for your analysis. 
 
 ---
 
-### Saturday, 22 March 2025
+### Saturday, 21 March 2026
 
 **Carry on!**
 
@@ -53,7 +53,7 @@ On the second day, we suggest you choose the main questions and methods you want
 
 ---
 
-### Sunday, 23 March 2025
+### Sunday, 22 March 2026
 
 💻 9-10:30am - Work on data
    

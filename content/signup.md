@@ -3,7 +3,7 @@ title: "Sign up"
 markup: "mmark"
 ---
 
-Deadline is **12th March 2025, 5pm UK time**. Please note that capacity is limited, so registration may stop before the deadline when all seats are taken!
+Deadline is **??th March 2026, 5pm UK time**. Please note that capacity is limited, so registration may stop before the deadline when all seats are taken!
 
 <br><br>
 
