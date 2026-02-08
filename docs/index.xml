@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DataFest 2025 @ EDI on DataFest-2025</title>
+    <title>DataFest 2026 @ EDI on DataFest-2026</title>
     <link>/</link>
-    <description>Recent content in DataFest 2025 @ EDI on DataFest-2025</description>
+    <description>Recent content in DataFest 2026 @ EDI on DataFest-2026</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -22,7 +22,7 @@
       <description>Eight teams participated in the DataFest @ EDI 2020 - COVID-19 Virtual Data Challenge over two weeks between 30 May and 13 June, 2020.&#xA;For this competition, we challenged participants to explore the societal impacts of the COVID-19 pandemic other than its direct health outcomes. Participants were allowed to explore everything from the effects on pollution levels, transportation levels, or working from home. They could investigate changes in the number of people posting on TikTok with their families or do an analysis on online education.</description>
     </item>
     <item>
-      <title>DataFest 2025 Sponsors</title>
+      <title>DataFest 2026 Sponsors</title>
       <link>/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/sponsors/</guid>
@@ -40,14 +40,14 @@
       <link>/df2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/df2021/</guid>
-      <description>DataFest 2024 @ EDI On 22-24 March, 82 students in 20 teams participated in the ASA DataFest 2024 at Edinburgh. Students were from 10 different schools across the University of Edinburgh and Heriot-Watt University. Academic staff, postgraduate students, and data scientists from industry joined as consultants to guide participants during the event.&#xA;The event was sponsored by the School of Mathematics, Actuarial Mathematics &amp;amp; Statistics Department at the Heriot-Watt University, Centre for Statistics, Maxwell Institute, Bayes Centre, International Centre for Mathematical Sciences, and the Royal Statistical Society.</description>
+      <description>DataFest 2025 @ EDI In this competition, 40 students from 6 different schools across the University of Edinburgh competed in 10 teams over the weekend. 12 academic staff, postgraduate students, and data scientists from industry helped them as consultants in analysing the given dataset. Participants worked together in the Hawthorn Teaching Room at the Nucleus Building and also spent time socialising with each other and data scientist consultants.&#xA;The data in this run of DataFest was from Savills, an international commercial real estate firm that helps businesses find a place to lease offices.</description>
     </item>
     <item>
       <title>Practicals</title>
       <link>/practicals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/practicals/</guid>
-      <description>How do I enter the venue? The Nucleus Building is a new shared learning, teaching and social hub at the heart of The King’s Buildings campus. See the location from the Google map&#xA;After normal working hours, access to the venue is only possible by card. If you are not a staff or student from the University of Edinburgh and want to enter the building at these hours, please make sure that you have a phone number from someone who can open the door for you.</description>
+      <description>How do I enter the venue? The JCMB Building is the learning, teaching and social place for various fields at the heart of The King’s Buildings campus. See the location from the Google map&#xA;After normal working hours, access to the venue is only possible by card. If you are not a staff or student from the University of Edinburgh and want to enter the building at these hours, please make sure that you have a phone number from someone who can open the door for you.</description>
     </item>
     <item>
       <title>Resources</title>
@@ -61,14 +61,14 @@
       <link>/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/schedule/</guid>
-      <description>All events take place on-site. We&amp;rsquo;ll use MS Teams for communication.&#xA;Event details When: Friday, March 21 at 6:00 pm - Sunday, March 23 at 7 pm&#xA;Where: Hawthorn Teaching Room, Nucleus Building, The King&amp;rsquo;s Buildings campus, The University of Edinburgh, EH9 3FG&#xA;Friday, 21 March 2025 Welcome!&#xA;📣 5-6pm - Registration&#xA;📣 6-6:30pm - Welcome; Overview of the event; Introducing the dataset&#xA;💻 6:30-7pm - Setting up your team</description>
+      <description>All events take place on-site. We&amp;rsquo;ll use MS Teams for communication.&#xA;Event details When: Friday, March 20 at 6:00 pm - Sunday, March 22 at 7 pm&#xA;Where: JCMB 3217, James Clarke Maxwell Building, The King&amp;rsquo;s Buildings campus, The University of Edinburgh, EH9 3FD&#xA;Friday, 20 March 2026 Welcome!&#xA;📣 5-6pm - Registration&#xA;📣 6-6:30pm - Welcome; Overview of the event; Introducing the dataset&#xA;💻 6:30-7pm - Setting up your team</description>
     </item>
     <item>
       <title>Sign up</title>
       <link>/signup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/signup/</guid>
-      <description>Deadline is 12th March 2025, 5pm UK time. Please note that capacity is limited, so registration may stop before the deadline when all seats are taken!&#xA;Participants Option 1: Team sign-up (2-5 students) Click here to sign up as a team of 2 to 5 students. Students signing up in this category will be given priority.&#xA;Option 2: Looking for teammates If you do not have a team in mind but you&amp;rsquo;re looking for teammates, click here to leave us your information and we will match you with other individuals.</description>
+      <description>Deadline is ??th March 2026, 5pm UK time. Please note that capacity is limited, so registration may stop before the deadline when all seats are taken!&#xA;Participants Option 1: Team sign-up (2-5 students) Click here to sign up as a team of 2 to 5 students. Students signing up in this category will be given priority.&#xA;Option 2: Looking for teammates If you do not have a team in mind but you&amp;rsquo;re looking for teammates, click here to leave us your information and we will match you with other individuals.</description>
     </item>
     <item>
       <title>Support DataFest</title>

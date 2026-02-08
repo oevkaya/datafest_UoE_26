@@ -10,7 +10,7 @@ markup: "mmark"
 -->
 
 
-Let us do it again! The American Statistical Association (ASA) DataFest 2026 @ Edinburgh will be hold on **March 20 - 22, 2025** with participation from the University of Edinburgh undergraduate students. 
+Let us do it again! The American Statistical Association (ASA) DataFest 2026 @ Edinburgh will be hold on **March 20 - 22, 2026** with participation from the University of Edinburgh undergraduate students. 
 
 <br>
 
