@@ -1,6 +1,6 @@
-# ASA DataFest 2025 at University of Edinburgh
+# ASA DataFest 2026 at University of Edinburgh
 
-Website for DataFest at Edinburgh, this March 21-23, 2025
+Website for DataFest at Edinburgh, this March 20-22, 2026
 
 ![DataFest_24](https://github.com/oevkaya/datafest_UoE/blob/master/docs/img/df-edi-logo-light.png)
 
