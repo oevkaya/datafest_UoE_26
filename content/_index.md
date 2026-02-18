@@ -10,7 +10,9 @@ markup: "mmark"
 -->
 
 
-Let us do it again! The American Statistical Association (ASA) DataFest 2026 @ Edinburgh will be hold on **March 20 - 22, 2026** with participation from the University of Edinburgh undergraduate students. 
+Join us for the **American Statistical Association (ASA) DataFest 2026 @ Edinburgh**, happening **March 20–22, 2026**! All **undergraduate students** from **any schools and any backgrounds** at the University of Edinburgh are welcome to take part in this friendly, collaborative weekend of working with real-world data! 
+
+If you love working with data, or want to discover whether you might, this event is for you!
 
 <br>
 
@@ -45,7 +47,9 @@ Passcode: datafest21
 
 ## ASA DataFest26@EDI
 
-The School of Mathematics hosted the American Statistical Association DataFest at Edinburgh on March 20–22, for the 5th time! ASA DataFest is a weekend-long undergraduate data analysis competition where teams of 2–5 undergraduates work to reveal insights from a rich, complex, and surprise dataset.
+The School of Mathematics is happy to host the American Statistical Association DataFest at Edinburgh on March 20–22, for the 5th time! 🎉 ASA DataFest is a weekend-long undergraduate data analysis competition where teams of 2–5 undergraduates work to reveal insights from a real-world and surprise dataset.
+
+ASA DataFest @ EDI is organised by the School of Mathematics at the University of Edinburgh. The organising committee members are Dr Serveh Sharifi, Dr Vanda Inacio, and Dr Ozan Evkaya.
 
 ---
 
@@ -53,13 +57,9 @@ The School of Mathematics hosted the American Statistical Association DataFest a
 
 Are you up for a data challenge? Want to mingle with data analysis professionals from industry and academia? Compete for prizes and glory? 
 
-ASA DataFest is a data analysis competition where teams of up to five undergraduate students attack a large, complex, and surprise dataset over a weekend. Your job is to represent your school by finding and communicating insights into these data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun! The surprise dataset will be provided by the ASA. You can read about past datasets, other institutions participating, and the global DataFest event [here](https://ww2.amstat.org/education/datafest/index.cfm).
+ASA DataFest is a data analysis competition where teams of up to five undergraduate students attack a large, complex, and surprise dataset over a weekend. Your job is to represent your school by finding and communicating insights into this data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun! The surprise dataset will be provided by the ASA. You can read about past datasets, other institutions participating, and the global DataFest event [here](https://ww2.amstat.org/education/datafest/index.cfm).
 
 ASA DataFest is also a great opportunity to gain the experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.
-
----
-
-ASA DataFest @ EDI is organised by the School of Mathematics, at the University of Edinburgh. The organising committee members are Serveh Sharifi, Vanda Inacio, and Ozan Evkaya.
   
 ---
 
