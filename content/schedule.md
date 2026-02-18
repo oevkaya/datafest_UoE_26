@@ -3,7 +3,7 @@ title: "Schedule"
 markup: "mmark"
 ---
 
-All events take place on-site. We'll use MS Teams for communication. 
+All events take place on-site. We'll also use MS Teams for sharing files and communication. 
 
 ### Event details
 
@@ -17,7 +17,7 @@ All events take place on-site. We'll use MS Teams for communication.
 
 **Welcome!**
 
-📣 5-6pm - Registration 
+📣 5:30-6pm - Arrival and Registration 
 
 📣 6-6:30pm - Welcome; Overview of the event; Introducing the dataset 
 
