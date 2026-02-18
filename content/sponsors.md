@@ -28,6 +28,20 @@ Huge thanks to our sponsors!
 <br><br><br>
 
 <!--
+<img style="width:400px;float: left;padding-right:20px" src="/logos/logo-IFoA@2x.jpg">
+-->
+
+![CfS](https://raw.githubusercontent.com/oevkaya/datafest_UoE_25/master/docs/img/CfS_2col_cmyk.png)
+
+[Institute and Faculty of Actuaries](https://actuaries.org.uk/) (IFoA) is the UK’s only chartered professional body dedicated to educating, developing, and regulating actuaries based both in the UK and internationally. The IFoA regulates and represents over 34,000 members worldwide. The IFoA’s purpose is ‘To be the voice of actuaries, and to support, develop and be the voice of our members.’
+
+
+
+---
+
+<br><br><br>
+
+<!--
 <img style="width:400px;float: left;padding-right:20px" src="/logos/CfS_2col_cmyk.jpg">
 -->
 
