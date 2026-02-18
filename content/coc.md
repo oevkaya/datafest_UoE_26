@@ -21,6 +21,8 @@ Please speak to one of the organisers or send an email to [Dr. Serveh Sharifi](m
 
 If any attendee engages in harassing behavior, the event organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the event. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the organizers with a concise description of your grievance.)
 
+We may take some photos during the event to capture the experience. If you’d rather not be included, please let one of the organizers know.
+
 We welcome your feedback on this and every other aspect of ASA DataFest<small><sup>TM</sup></small> events, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 
 Parts of the above text is licensed CC BY-SA 4.0. Credit to rOpenSci and SRCCON. Also inspired by the Ada Initiative’s “how to design a code of conduct for your community''.
