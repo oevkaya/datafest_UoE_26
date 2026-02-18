@@ -13,13 +13,13 @@ You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your inf
 
 #### <i class="fas fa-question-circle fa-fw"></i> Is there a registration fee?
 
-No, there is no registration fee. However, note that the event takes significant resources to run. So, if you sign up, we expect that you show up! If your plans change, [let us know](mailto:serveh.sharifi@ed.ac.uk) ASAP so we can make your spot available to someone else.
+No, there is no registration fee. However, note that the event takes significant resources to run. So, **if you sign up, we expect that you show up!** If your plans change, [let us know](mailto:serveh.sharifi@ed.ac.uk) ASAP and before the registeration deadline so we can make your spot available to someone else.
 
 ---
 
 #### <i class="fas fa-question-circle fa-fw"></i> Who is eligible to compete?</h4>
 
-All University of Edinburgh **undergraduate** students are eligible with any background. You don't need to have an extensive background in working with data, as long as you are interested in exploring data you could join the competition! Whether you're a beginner or have some experience, this is a great opportunity to develop your data analysis skills, collaborate with others, and tackle real-world problems using data.
+All University of Edinburgh **undergraduate** students are eligible with any background. You don't need to have an extensive, or any, background in working with data, as long as you are interested in exploring data you could join the competition! Whether you're a beginner or have some experience, this is a great opportunity to develop your data analysis skills, collaborate with others, and tackle real-world problems using data.
 
 ---
 
