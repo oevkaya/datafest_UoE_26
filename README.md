@@ -6,4 +6,4 @@ Website for DataFest at Edinburgh, this March 20-22, 2026
 
 Website made from this earlier version, https://github.com/datafest-edi/web
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5a8a1b0-7f3a-4fe0-960f-459db3fd2cf3/deploy-status)](https://app.netlify.com/sites/edi-datafest25/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3470bde-db75-48ab-8b69-b9e37f3026e9/deploy-status)](https://app.netlify.com/projects/edi-datafest26/deploys)
