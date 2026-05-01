@@ -84,3 +84,51 @@ While ASA DataFest is a competition, the main goal of the event is to promote co
 Find out more about how the event went and the winners from the last one [here](/df2021).
 
 -->
+
+### DataFest26@EDI 
+
+In this round of the competition, 54 students from 7 different schools across the University of Edinburgh competed in 16 teams over the weekend. The event was held in JCMB, and 8 academic staff, postgraduate students, and data scientists from industry helped them as consultants in analysing the given dataset. Participants worked together on their analysis in teams and also spent time socialising with each other and data scientist consultants. 
+
+The data in this run of DataFest was from Stormont Vail Health (SVH). Stormont Vail Health is a longstanding nonprofit health system in Kansas, US, recognized for its quality care and extensive facilities. Comprising acute care hospitals, an array of clinics, and numerous outpatient services, SVH employs over 6,000 staff and serves a large patient base through various healthcare interactions. Their mission emphasizes improving community health through compassionate, integrated care. By providing data to DataFest, SVH seeks to better understand patient journeys within their system by analyzing data on healthcare encounters. This aims to optimize patient experiences by identifying potential gaps in care, unnecessary procedures, and factors like transportation and home environments that influence healthcare access and outcomes.
+
+The judges for this year’s ASA DataFest@EDI were:
+- Benjamin Cox- Postdoctoral Researcher at Max Planck Institute for Physics
+- Ian Sharpe- Actuary at the Institute and Faculty of Actuaries Scottish Board	 
+- Bruce Worton- Reader in Statistics at the School of Mathematics, University of Edinburgh
+- Katie Worton- Senior Software Engineer at CNIguard Ltd	
+
+For this challenge, teams were asked to present their finding to a panel of judges in a six-minute presentation. After the presentations, winners were announced and received certificates, prizes, and free memberships to the American Statistical Association and the Royal Statistical Society at the end of the event on Sunday evening.
+
+#### ASA DataFest26@EDI awards:
+🏆 Best Insights joint award: 
+  - Team 7 for their work entitled: “Explorations on Type 2 Diabetes Blood Test Frequencies”
+    
+    Team members: Steve Hou, Zhihan Zhang, Yanchen Pan, Ruiqi Deng
+  - Team “Byte me” for their work entitled: “Online Care for the Elderly”
+    
+    Team members: Ishildur Ulva Aadnedottir, Anna Gotto, Kumi Stevens
+    
+🏆 Best Visualisation: 
+  - Team 16 for their work entitled: “A Journey Through Smoke”
+  
+    Team members: Alexis Jaszkowski, Anthea Wong, Dongming Sima
+    
+🏆 Best Use of Outside Data: 
+  - Team “Significant Figures” for their work entitled: “Potential Effects on Hospital Admission and Waiting Time”
+
+    Team members: Korbin Sharp, Jude Robinson, Harry Taylor, Harry English
+
+🏅 Honourable mentions for commendable work in insights and visualisation were awarded to: 
+  - Team “Command+V” for their work entitled: “Bridging the Gap: Fixing the T2DM Patient Journey at SVH”
+    
+    Team members: Qianhao Meng, Chenyi Shirley He, Veronica Xu, Jiahui Liu,
+  - Team “Ctrl Alt Elite” for their work.
+    
+    Team members: Theo Ellis-Morton, Tobias Andersen, Joseph Dunn, Theo Kidd, Harvey Allen
+  - Team “The Gooners” for their work entitled: “SVH Patients' Journey”
+    
+    Team members: Shravan Mudduluru, Ishir Nama, Neslihan Arici
+  - Team 13 for their work entitled: “How to improve the care efficiency of Type-2 Diabetes patients”
+    
+    Team members: Jieyu Ren, Jingxuan Han 
+
